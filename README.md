@@ -1,6 +1,6 @@
 # Java with SSH - starter app for Web App on Linux
 
-A simple Python Django application running in a Docker container. The custom image uses port 8000 and ssh on 2222. 
+A simple Java Django application running in a Docker container. The custom image uses port 8000 and ssh on 2222. 
 
 ## Setting up custom image for web App on Linux 
 - Create a Web App on Linux using CLI or Azure portal
