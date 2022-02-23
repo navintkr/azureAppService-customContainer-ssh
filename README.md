@@ -1,4 +1,4 @@
-# Django starter app for Web App on Linux
+# Java with SSH - starter app for Web App on Linux
 
 A simple Python Django application running in a Docker container. The custom image uses port 8000 and ssh on 2222. 
 
@@ -9,9 +9,9 @@ A simple Python Django application running in a Docker container. The custom ima
 - Browse your site 
  
 ## To try in local
-- docker build -t spring-boot-docker . 
-- docker tag spring-boot-docker <acr-login-server>/spring-boot-docker:v1
-- docker push <acr-login-server>/spring-boot-docker:v1
+- `docker build -t spring-boot-docker .` 
+- `docker tag spring-boot-docker <acr-login-server>/spring-boot-docker:v1`
+- `docker push <acr-login-server>/spring-boot-docker:v1`
 
 # Contributing
 
